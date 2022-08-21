@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/College-Project-TraveliO/static/css/main.52799693.css",
+    "main.js": "/College-Project-TraveliO/static/js/main.022092f8.js",
+    "static/js/483.bd921691.chunk.js": "/College-Project-TraveliO/static/js/483.bd921691.chunk.js",
+    "static/media/travel-02.jpg": "/College-Project-TraveliO/static/media/travel-02.b97d0731e13ebc3ed4c8.jpg",
+    "static/media/travel-03.webp": "/College-Project-TraveliO/static/media/travel-03.41a9d656a467ec06829d.webp",
+    "static/media/travel-01.jpg": "/College-Project-TraveliO/static/media/travel-01.3db63b8ffd14bff2af53.jpg",
+    "static/media/travel-05.webp": "/College-Project-TraveliO/static/media/travel-05.102dc63c6ada4638f91e.webp",
+    "static/media/travel-04.webp": "/College-Project-TraveliO/static/media/travel-04.370f86ca123a10a94c15.webp",
+    "static/media/No.webp": "/College-Project-TraveliO/static/media/No.a26bcd16592f7ba25f35.webp",
+    "static/media/close.png": "/College-Project-TraveliO/static/media/close.ba62727f19cb28fe840b.png",
+    "index.html": "/College-Project-TraveliO/index.html",
+    "main.52799693.css.map": "/College-Project-TraveliO/static/css/main.52799693.css.map",
+    "main.022092f8.js.map": "/College-Project-TraveliO/static/js/main.022092f8.js.map",
+    "483.bd921691.chunk.js.map": "/College-Project-TraveliO/static/js/483.bd921691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52799693.css",
+    "static/js/main.022092f8.js"
+  ]
+}
